@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://github.com/arman-miaa/arman-miaa/raw/main/arman-banner.png" alt="Arman Banner" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arman-miaa/arman-miaa/main/arman-banner.png" alt="Arman Banner" />
+</p>
+
 
 <h1 align="left">Hi 👋, I'm Arman Mia</h1>
 <h3 align="left">⚡ Full-Stack Developer | MERN Stack Enthusiast</h3>
