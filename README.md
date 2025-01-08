@@ -37,7 +37,7 @@
   <img src="https://komarev.com/ghpvc/?username=arman-miaa&label=Profile%20views&color=0e75b6&style=flat" alt="arman-miaa" />
 </p>
 
-- 🌱 Portfolio: [https://my-portfolio36.netlify.app/](https://my-portfolio36.netlify.app/#home)  
+- 🌱 Portfolio: [https://arman-mia.netlify.app/](https://arman-mia.netlify.app/)  
 - 👨‍💻 All of my projects are available at [https://github.com/arman-miaa](https://github.com/arman-miaa)  
 - 📫 How to reach me: [arman.miaa.dev@gmail.com](mailto:arman.miaa.dev@gmail.com)  
 
