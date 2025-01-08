@@ -41,6 +41,16 @@
 - 👨‍💻 All of my projects are available at [https://github.com/arman-miaa](https://github.com/arman-miaa)  
 - 📫 How to reach me: [arman.miaa.dev@gmail.com](mailto:arman.miaa.dev@gmail.com)  
 
+
+<h3 align="left" style="color: #50E3C2;">📚 Currently learning:</h3>
+<ul>
+  <li>MongoDB</li>
+  <li>Express.js</li>
+  <li>JWT for backend development</li>
+</ul>
+
+
+
 <h3 align="left" style="color: #50E3C2;">Languages and Tools:</h3>
 
 ### 🛠️ Tech Stack
@@ -58,7 +68,7 @@
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
