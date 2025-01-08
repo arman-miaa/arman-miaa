@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/arman-miaa/arman-miaa/blob/main/arman-banner.pdf" alt="Arman Banner" />
+  <a href="https://drive.google.com/file/d/1CXguFpDUbtdjDcK_pXpp3ipk5SAqfSc0/view?usp=drive_link" target="_blank">
+    <img src="https://github.com/arman-miaa/arman-miaa/blob/main/arman-banner.png" alt="Arman Banner" />
+  </a>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arman-miaa/arman-miaa/main/arman-banner.pdf" alt="Arman Banner" />
-</p>
+
 
 
 
