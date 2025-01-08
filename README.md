@@ -4,6 +4,13 @@
   </a>
 </p>
 
+
+
+
+
+
+
+
 <h1 align="left">Hi 👋, I'm Arman Mia</h1>
 <h3 align="left">⚡ Full-Stack Developer | MERN Stack Enthusiast</h3>
 <p align="left">
@@ -66,9 +73,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true&locale=en" alt="arman-miaa" /></p>
+<p style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true&locale=en" alt="arman-miaa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-miaa&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-miaa&show_icons=true&locale=en&layout=compact" alt="arman-miaa" /></p>
 
 
 
