@@ -43,9 +43,12 @@
 
 
 <h3 align="left" style="color: #50E3C2;">📚 Currently learning:</h3>
-<p align="left" style="font-size: 1.1em; ">
-  I am currently learning <strong>MongoDB</strong> and <strong>Express.js</strong> to enhance my backend development skills.
-</p>
+<ul>
+  <li>MongoDB</li>
+  <li>Express.js</li>
+  <li>JWT for backend development</li>
+</ul>
+
 
 
 
