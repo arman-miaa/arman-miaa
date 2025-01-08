@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/arman-miaa/arman-miaa/raw/main/arman-banner.png" alt="Arman Banner" />
+  <img src="https://github.com/arman-miaa/arman-miaa/raw/main/arman-banner.pdf" alt="Arman Banner" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/arman-miaa/arman-miaa/main/arman-banner.pdf" alt="Arman Banner" />
