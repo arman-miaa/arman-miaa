@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://drive.google.com/file/d/1CXguFpDUbtdjDcK_pXpp3ipk5SAqfSc0/view?usp=drive_link" target="_blank">
-    <img src="https://github.com/arman-miaa/arman-miaa/blob/main/arman-banner.png" alt="Arman Banner" />
+  <a href="https://github.com/arman-miaa/arman-miaa/blob/main/github-banner.png" target="_blank">
+    <img src="https://github.com/arman-miaa/arman-miaa/blob/main/github-banner.png" alt="Arman Banner" />
   </a>
 </p>
 
