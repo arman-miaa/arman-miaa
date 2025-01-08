@@ -4,10 +4,6 @@
   </a>
 </p>
 
-
-
-
-
 <h1 align="left">Hi 👋, I'm Arman Mia</h1>
 <h3 align="left">⚡ Full-Stack Developer | MERN Stack Enthusiast</h3>
 <p align="left">
@@ -26,7 +22,17 @@
   <a href="mailto:arman.miaa.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://facebook.com/arman.miaa" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/arman.miaa" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/8801753042217" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman-miaa&label=Profile%20views&color=0e75b6&style=flat" alt="arman-miaa" /> </p>
 
@@ -60,9 +66,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-miaa&show_icons=true&locale=en&layout=compact" alt="arman-miaa" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true&locale=en" alt="arman-miaa" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-miaa&show_icons=true&locale=en&layout=compact" alt="arman-miaa" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arman-miaa&" alt="arman-miaa" /></p>
 
