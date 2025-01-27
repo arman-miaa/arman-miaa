@@ -41,6 +41,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/arman-miaa](https://github.com/arman-miaa)  
 - 📫 How to reach me: [arman.miaa.dev@gmail.com](mailto:arman.miaa.dev@gmail.com)  
 
+---
 
 <h3 align="left" style="color: #50E3C2;">📚 Currently learning:</h3>
 <ul>
@@ -49,8 +50,7 @@
   <li>JWT for backend development</li>
 </ul>
 
-
-
+---
 
 <h3 align="left" style="color: #50E3C2;">Languages and Tools:</h3>
 
@@ -64,8 +64,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -73,12 +71,15 @@
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true&locale=en" alt="arman-miaa" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
