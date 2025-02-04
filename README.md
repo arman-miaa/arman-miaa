@@ -25,9 +25,7 @@
   <a href="https://facebook.com/arman.miaa" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/arman_mia36" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+
   <a href="https://wa.me/8801736550601" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
@@ -44,9 +42,9 @@
 
 <h3 align="left" style="color: #50E3C2;">📚 Currently learning:</h3>
 <ul>
-  <li>MongoDB</li>
-  <li>Express.js</li>
-  <li>JWT for backend development</li>
+  <li>Next.JS</li>
+  <li>Typescript </li>
+  <li>Payment Methods </li>
 </ul>
 
 
