@@ -44,7 +44,7 @@
 <ul>
   <li>Next.JS</li>
   <li>Typescript </li>
-  <li>Payment Methods </li>
+  <li>Redux </li>
 </ul>
 
 
