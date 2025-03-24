@@ -25,7 +25,6 @@
   <a href="https://facebook.com/arman.miaa" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-
   <a href="https://wa.me/8801736550601" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
@@ -37,16 +36,12 @@
 
 - 🌱 Portfolio: [https://arman-mia.netlify.app/](https://arman-mia.netlify.app/)  
 - 👨‍💻 All of my projects are available at [https://github.com/arman-miaa](https://github.com/arman-miaa)  
-- 📫 How to reach me: [arman.miaa.dev@gmail.com](mailto:arman.miaa.dev@gmail.com)  
-
+- 📫 How to reach me: [arman.miaa.dev@gmail.com](mailto:arman.miaa.dev@gmail.com)
 
 <h3 align="left" style="color: #50E3C2;">📚 Currently learning:</h3>
 <ul>
   <li>Next.JS</li>
 </ul>
-
-
-
 
 <h3 align="left" style="color: #50E3C2;">Languages and Tools:</h3>
 
@@ -82,12 +77,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 #### Deployment
 ![Render](https://img.shields.io/badge/Render-5E2A8C?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 
 <p style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true&locale=en" alt="arman-miaa" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
