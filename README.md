@@ -110,11 +110,6 @@
 
 ---
 
-## 🔝 Top Contributed Repo
-
-[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=arman-miaa&repo=Taskly)](https://github.com/arman-miaa/Taskly)
-
----
 
 ## 📈 Profile Views
 
