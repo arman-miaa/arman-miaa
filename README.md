@@ -98,4 +98,26 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arman-miaa&" alt="arman-miaa" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/></p>
 
 
+## 🏆 GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=arman-miaa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔝 Top Contributed Repo
+
+My top contributed repository is [Taskly](https://github.com/arman-miaa/Taskly), a task management application with features like drag-and-drop functionality, task categorization, and real-time synchronization.
+
+---
+
+## 📈 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arman-miaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
