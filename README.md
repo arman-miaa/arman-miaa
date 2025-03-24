@@ -96,3 +96,18 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arman-miaa&" alt="arman-miaa" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/></p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arman-miaa&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15" alt="Arman's GitHub Trophies" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arman-miaa&theme=react-dark&area=true&hide_border=true&radius=10&font=google" alt="Arman's Achievements" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+</p>
+
