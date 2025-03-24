@@ -82,9 +82,22 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<p style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true&locale=en" alt="arman-miaa" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-miaa&show_icons=true&locale=en&layout=compact" alt="top-langs" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true&hide_title=true&count_private=true" alt="Arman's GitHub Stats" style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arman-miaa&" alt="arman-miaa" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/></p>
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-miaa&" alt="Arman GitHub Streak" style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);" />
+</p>
+
+---
+
+### 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-miaa&show_icons=true&layout=compact&hide_title=true" alt="Arman's Top Languages" style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);" />
+</p>
