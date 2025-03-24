@@ -112,7 +112,7 @@
 
 ## 🔝 Top Contributed Repo
 
-My top contributed repository is [Taskly](https://github.com/arman-miaa/Taskly), a task management application with features like drag-and-drop functionality, task categorization, and real-time synchronization.
+[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=arman-miaa&repo=Taskly)](https://github.com/arman-miaa/Taskly)
 
 ---
 
