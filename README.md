@@ -7,7 +7,7 @@
 <h1 align="left" style="color: #4A90E2;">Hi 👋, I'm Arman Mia</h1>
 <h3 align="left" style="color: #50E3C2;">⚡ Full-Stack Developer | MERN Stack Enthusiast</h3>
 <p align="left" style="font-size: 1.1em;">
-  I am a self-taught web developer with expertise in the MERN stack.. Passionate about solving complex problems, building responsive web applications, and exploring the latest technologies. Always eager to learn and grow in the dynamic tech landscape.
+  I am a self-taught web developer with expertise in the MERN stack. Passionate about solving complex problems, building responsive web applications, and exploring the latest technologies. Always eager to learn and grow in the dynamic tech landscape.
 </p>
 
 ### 🤝 Connect with me:
