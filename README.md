@@ -48,10 +48,9 @@
 
 ### 📚 Currently learning:
 
-* Next.js 14
-* PostgreSQL & Prisma
-* JWT Authentication & Security Best Practices
-* TypeScript Advanced Patterns
+* Docker
+* AWS
+
 
 ---
 
