@@ -40,9 +40,9 @@
 
 ---
 
-* 🌱 Portfolio: [https://arman-mia.vercel.app/](https://arman-mia.vercel.app/)
+* 🌱 Portfolio: [https://arman-mia.vercel.app](https://arman-mia.vercel.app)
 * 👨‍💻 All of my projects: [https://github.com/arman-miaa](https://github.com/arman-miaa)
-* 📫 Reach me: [arman.mia.dev@gmail.com](mailto:arman.mia.dev@gmail.com)
+* 📫 Reach me: [arman.miaa36@gmail.com](mailto:arman.miaa36@gmail.com)
 
 ---
 
