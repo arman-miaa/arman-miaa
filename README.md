@@ -97,13 +97,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true&locale=en" alt="arman-miaa" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-miaa&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-miaa" alt="arman-miaa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-miaa" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-miaa&layout=compact" />
+</p>
+
 
 ---
 
