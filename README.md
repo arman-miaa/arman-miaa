@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <a href="https://github.com/arman-miaa/arman-miaa/blob/main/github-banner.png" target="_blank">
     <img src="https://github.com/arman-miaa/arman-miaa/blob/main/github-banner.png" alt="Arman Banner" style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);" />
@@ -97,15 +95,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true&locale=en" alt="arman-miaa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-miaa&show_icons=true&locale=en&layout=compact" alt="top-langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-miaa" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-miaa&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-miaa" alt="arman-miaa" />
 </p>
 
 
@@ -128,6 +123,3 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=arman-miaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-
-
