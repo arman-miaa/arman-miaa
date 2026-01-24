@@ -110,11 +110,7 @@
     height="160" 
     alt="Repos per Language" 
   /> 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=arman-miaa&theme=github-dark-dimmed&hide_border=true" 
-  height="160" 
-  alt="GitHub Streak" 
-/>
+
 <img src="https://nirzak-streak-stats.vercel.app?user=arman-miaa&theme=github-dark-dimmed" height="160" alt="GitHub Streak" /> 
 </p>
 
