@@ -94,14 +94,42 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arman-miaa&show_icons=true&locale=en" alt="arman-miaa" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-miaa&show_icons=true&locale=en&layout=compact" alt="top-langs" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-miaa" alt="arman-mia" />
+</p> -->
+## 📊 GitHub Stats
+
+<p align="center"> 
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arman-miaa&theme=city_lights" 
+    height="160" 
+    alt="Repos per Language" 
+  /> 
+  <img 
+    src="https://nirzak-streak-stats.vercel.app?user=arman-miaa&theme=github-dark-dimmed" 
+    height="160" 
+    alt="GitHub Streak" 
+  /> 
 </p>
+
+<p align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arman-miaa&theme=city_lights" 
+    height="160" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arman-miaa&theme=city_lights&hide_border=true" 
+    height="160" 
+    alt="Profile Details" 
+  />
+</p>
+
 
 
 ---
