@@ -104,32 +104,30 @@
 </p> -->
 
 
+
+
 <p align="center"> 
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arman-miaa&theme=city_lights" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arman-miaa&theme=city_lights" 
     height="160" 
-    alt="Repos per Language" 
   /> 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=arman-miaa&theme=github-dark-dimmed&hide_border=true" 
-  height="160" 
-  alt="GitHub Streak" 
-/>
-
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=arman-miaa&theme=github-dark-dimmed&hide_border=true" 
+    height="160" 
+  /> 
 </p>
 
 <p align="center">
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arman-miaa&theme=city_lights" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arman-miaa&theme=city_lights" 
     height="160" 
-    alt="GitHub Stats" 
   />
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arman-miaa&theme=city_lights&hide_border=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arman-miaa&theme=city_lights" 
     height="160" 
-    alt="Profile Details" 
   />
 </p>
+
 
 
 
@@ -137,7 +135,12 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=arman-miaa\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=arman-miaa&theme=darkhub&no-frame=true&margin-w=10" 
+  />
+</p>
+
 
 ---
 
