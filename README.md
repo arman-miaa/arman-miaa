@@ -135,8 +135,13 @@
 ---
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arman-miaa&theme=radical&no-frame=true&no-bg=true)
 
-![](https://github-profile-trophy.vercel.app/?username=arman-miaa&theme=onedark&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arman-miaa&theme=radical&margin-w=4" />
+</p>
+
 
 
 ---
