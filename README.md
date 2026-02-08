@@ -104,6 +104,11 @@
 </p> -->
 
 
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=arman-miaa&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+
+
 <p align="center"> 
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arman-miaa&theme=city_lights" 
