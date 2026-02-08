@@ -109,7 +109,7 @@
 </p>
 
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arman-miaa&theme=city_lights" 
     height="160" 
@@ -130,7 +130,7 @@
     height="160" 
     alt="Profile Details" 
   />
-</p>
+</p> -->
 
 
 
