@@ -8,7 +8,7 @@
 <h3 align="left" style="color: #50E3C2;">⚡ Full-Stack Developer | MERN & Next.js Enthusiast</h3>
 <p align="left" style="font-size: 1.1em;">
   I am a self-taught web developer passionate about building responsive and secure web applications. I love exploring modern web technologies like Next.js, PostgreSQL, Prisma, and JWT, and always strive to improve my skills in full-stack development.
-</p>
+</p>.
 
 ---
 
