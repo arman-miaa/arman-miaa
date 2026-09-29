@@ -1,16 +1,43 @@
 <p align="center">
-  <a href="https://github.com/arman-miaa/arman-miaa/blob/main/github-banner.png" target="_blank">
-    <img src="https://github.com/arman-miaa/arman-miaa/blob/main/github-banner.png" alt="Arman Banner" style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);" />
+  <img src="./github-banner.png" alt="Arman Mia Banner" width="100%" />
+</p>
+
+<h1 align="center" style="color: #38BDF8;">Hi 👋, I'm Arman Mia</h1>
+<h3 align="center" style="color: #94A3B8;">Full-Stack Engineer & AI/Business Automation Specialist</h3>
+
+<p align="center">
+  I help businesses turn complex requirements into clean, scalable software and automated workflows.<br/>
+  As a Full-Stack Developer, I don't just write code—I build end-to-end digital solutions that save operational hours and generate revenue.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/arman-miaa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://arman-mia.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:arman.miaa36@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/8801736550601" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
-<h1 align="left" style="color: #4A90E2;">Hi 👋, I'm Arman Mia</h1>
-<h3 align="left" style="color: #50E3C2;">⚡ Full-Stack Developer | MERN & Next.js</h3>
-<p align="left" style="font-size: 1.1em;">
-  I am a Full-Stack Developer passionate about building secure, scalable web applications. Experienced in Next.js, TypeScript, Node.js, MongoDB, and PostgreSQL. I deploy and manage applications on Linux VPS (AWS EC2) with Nginx, PM2, and Docker. Always learning and exploring modern DevOps tools.
-</p>
+---
+
+### 🚀 What I Build & Deliver:
+
+- ⚡ **Full-Stack Web Applications:** High-performance web platforms and dashboards using React, Next.js, Node.js, and modern databases.
+- 🤖 **AI & Business Automation:** Custom integrations, lead-capture workflows, and intelligent bots that handle repetitive tasks.
+- 🔗 **APIs & Third-Party Integrations:** Connecting CRMs, payment gateways, and databases seamlessly.
+- ☁️ **DevOps & Infrastructure:** Linux VPS administration (AWS EC2, Ubuntu) hardened with SSH security, Fail2ban, Nginx, and Docker containerization.
 
 ---
+
+**💬 Got a project or looking to automate your workflow?** Feel free to connect or drop a message!  
+I'm open to opportunities where I can contribute to meaningful projects, solve complex challenges, and grow as part of a supportive team.
 
 ### 🤝 Connect with me:
 
